@@ -1,0 +1,10 @@
+{
+  "name": "learning-socketio-server",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "http": "^0.0.0",
+    "lodash": "^4.17.10",
+    "socket.io": "^2.1.1"
+  }
+}
